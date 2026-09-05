@@ -1,0 +1,16 @@
+# Names refused by every client, on top of the ones compiled in.
+#
+# One entry per line. Case does not matter. Anything after a # is a comment.
+#
+#   guild: Some Guild
+#   account: SomeName
+#
+# Publish with scripts\publish-denylist.ps1 from the Aether checkout. Every client picks the file
+# up on its next start. A name removed from here stops being refused the same way: the client
+# writes nothing to the machine for these, so this file is the whole of the refusal.
+#
+# The two names compiled into the client are not listed here and cannot be removed here.
+
+guild: wind
+account: Knap
+account: HardLuck
