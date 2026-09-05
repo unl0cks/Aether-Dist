@@ -14,4 +14,3 @@
 guild: wind
 account: Knap
 account: HardLuck
-account: Laaiti09   # TEMPORARY test entry, remove after the login test
