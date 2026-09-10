@@ -14,5 +14,3 @@
 guild: wind
 account: Knap
 account: HardLuck
-account: dark elf dragon
-account: elyssius
