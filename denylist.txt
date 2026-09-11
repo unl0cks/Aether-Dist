@@ -14,4 +14,3 @@
 guild: wind
 account: Knap
 account: HardLuck
-account: macdonald
