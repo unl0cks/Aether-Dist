@@ -10,4 +10,4 @@
 # main leaves the guild is refused on its next check and nothing is written to its machine, so
 # the main rejoining, or an edit here, is the whole of the way back.
 
-alt: SuperGirlyGamer3   main: Laaiti09
+alt: SuperGirlyGamer3   main: Maffia123
