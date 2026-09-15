@@ -9,3 +9,6 @@
 # file up on its next start. The denylist still wins: a name on both is refused. An alt whose
 # main leaves the guild is refused on its next check and nothing is written to its machine, so
 # the main rejoining, or an edit here, is the whole of the way back.
+
+alt: SuperGirlyGamer3   main: Laaiti09
+alt: MadMan7744         main: Laaiti09
