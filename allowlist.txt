@@ -1,0 +1,11 @@
+# Alt accounts let in on another account's standing, or on the developer's word alone.
+#
+# One entry per line. Case does not matter. Anything after a # is a comment.
+#
+#   alt: SomeAlt   main: TheirMain    # in while TheirMain's public character page names the guild
+#   alt: OtherAlt                      # in unconditionally
+#
+# Publish with scripts\publish-allowlist.ps1 from the Aether checkout. Every client picks the
+# file up on its next start. The denylist still wins: a name on both is refused. An alt whose
+# main leaves the guild is refused on its next check and nothing is written to its machine, so
+# the main rejoining, or an edit here, is the whole of the way back.
