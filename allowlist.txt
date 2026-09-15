@@ -11,4 +11,3 @@
 # the main rejoining, or an edit here, is the whole of the way back.
 
 alt: SuperGirlyGamer3   main: Laaiti09
-alt: MadMan7744         main: Laaiti09
