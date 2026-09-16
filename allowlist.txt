@@ -15,3 +15,5 @@ alt: maffia123   main: Laaiti09
 alt: MadMan7744   main: Laaiti09
 alt: ezs   main: qks
 alt: ABCTheFirst   main: XYZTheLast
+alt: Nexl   main: Velarin Rose
+alt: Therru   main: Velarin Rose
