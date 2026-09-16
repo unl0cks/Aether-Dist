@@ -4,12 +4,24 @@
 #
 #   guild: Some Guild
 #   account: SomeName
+#   copy: k4p2          # one handed-out copy of the open client, by the stamp it was built with
+#   service: https://...  # where the membership service is; see below
 #
 # Publish with scripts\publish-denylist.ps1 from the Aether checkout. Every client picks the file
 # up on its next start. A name removed from here stops being refused the same way: the client
 # writes nothing to the machine for these, so this file is the whole of the refusal.
 #
 # The two names compiled into the client are not listed here and cannot be removed here.
+#
+# The `service` line is the odd one out: it is not a refusal, it is where the membership service
+# lives. It is here because this is the one file every client already fetches and already checks
+# the signature of, which means the service can be moved -- to a domain of its own, or to another
+# host entirely -- without a release, and without stranding a client that missed one. Only this
+# file's signature decides it, so nobody else can point a client at their own server. Anything
+# that is not plainly an https address is ignored, and the client falls back to the address it
+# was built with.
+
+service: https://aether-entitlement.unl0cks.workers.dev/entitle
 
 guild: wind
 account: Knap
