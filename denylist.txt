@@ -26,3 +26,5 @@ service: https://aether-entitlement.unl0cks.workers.dev/entitle
 guild: wind
 account: Knap
 account: HardLuck
+account: Aesir
+account: King xo
