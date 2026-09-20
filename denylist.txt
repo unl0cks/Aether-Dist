@@ -28,3 +28,4 @@ account: Knap
 account: HardLuck
 account: King xo
 account: Aesir12
+guild: Kaze
