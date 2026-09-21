@@ -4,7 +4,7 @@
 #
 #   guild: Some Guild
 #   account: SomeName
-#   copy: k4p2          # one handed-out copy of the open client, by the stamp it was built with
+#   copy: k4p2          # secret..
 #   service: https://...  # where the membership service is; see below
 #
 # Publish with scripts\publish-denylist.ps1 from the Aether checkout. Every client picks the file
@@ -29,3 +29,4 @@ account: HardLuck
 account: King xo
 account: Aesir12
 guild: Kaze
+copy: s4kd
