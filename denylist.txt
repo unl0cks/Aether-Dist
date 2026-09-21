@@ -29,4 +29,3 @@ account: HardLuck
 account: King xo
 account: Aesir12
 guild: Kaze
-copy: s4kd
