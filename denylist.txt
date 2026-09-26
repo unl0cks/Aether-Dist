@@ -30,3 +30,4 @@ account: King xo
 account: Aesir12
 guild: Kaze
 account: Melons
+copy: s4kd
