@@ -11,7 +11,7 @@
 # the main rejoining, or an edit here, is the whole of the way back.
 
 alt: SuperGirlyGamer3   main: Laaiti09
-alt: ezs   main: qks
+alt: ezs
 alt: ABCTheFirst   main: XYZTheLast
 alt: Nexl   main: Velarin Rose
 alt: Therru   main: Velarin Rose
