@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/unl0cks/Aether/main/aether/assets/aether-icon.png" alt="Aether" width="280">
+<img src="assets/aether-icon.png" alt="Aether" width="280">
 
 # Aether
 
@@ -203,8 +203,8 @@ lines before the fault, which together answer most questions in one go.
 ## Licensing and attribution
 
 Aether is derived from [Ruffle](https://ruffle.rs), and keeps the licensing and attribution
-obligations of that base and of every dependency it carries. The source and its licences are at
-[unl0cks/Aether](https://github.com/unl0cks/Aether).
+obligations of that base and of every dependency it carries. Those licences come with every download,
+in `LICENSE.md` and `THIRD-PARTY-NOTICES.md`.
 
 AdventureQuest Worlds is a trademark of Artix Entertainment. Aether is an unofficial client, is not
 affiliated with or endorsed by Artix Entertainment, and ships none of the game's content: it loads
