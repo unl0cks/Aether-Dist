@@ -24,3 +24,4 @@ alt: killer_m7   main: remaposs
 alt: NyxPlague
 alt: Doom Destroyer
 alt: NyxOpalLios
+alt: NyxPurge
