@@ -26,3 +26,4 @@ alt: Doom Destroyer
 alt: NyxOpalLios
 alt: NyxPurge
 alt: Flick004   main: lb1236412
+alt: DoubleSwitch
