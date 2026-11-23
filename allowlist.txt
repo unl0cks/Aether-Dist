@@ -28,3 +28,4 @@ alt: NyxPurge
 alt: Flick004   main: lb1236412
 guild: Opal Eclipse
 alt: xully   main: rheyz
+alt: 101guy505   main: Duchy
