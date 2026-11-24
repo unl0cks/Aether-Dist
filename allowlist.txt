@@ -10,12 +10,12 @@
 # main leaves the guild is refused on its next check and nothing is written to its machine, so
 # the main rejoining, or an edit here, is the whole of the way back.
 
-alt: SuperGirlyGamer3   main: Laaiti09
+alt: SuperGirlyGamer3   main: Harmonoia
 alt: ezs
 alt: ABCTheFirst   main: XYZTheLast
 alt: Nexl   main: Velarin Rose
 alt: Therru   main: Velarin Rose
-alt: MadMan7744   main: Laaiti09
+alt: MadMan7744   main: Harmonoia
 alt: Shisuke69   main: Riyuka19
 alt: Yoplay   main: Kafka simp
 alt: kurohikki   main: rads1k
